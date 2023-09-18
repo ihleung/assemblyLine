@@ -2,4 +2,4 @@
 
 ## Description
 
-Object-Oriented Software Development Using C++ Final Project
+Object-Oriented Software Development Final Project Using C++
