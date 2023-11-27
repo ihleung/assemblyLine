@@ -12,8 +12,8 @@
       "args": [
         "Stations1.txt",
         "Stations2.txt",
-        "AssemblyLine.txt",
-        "CustomerOrders.txt"
+        "CustomerOrders.txt",
+        "AssemblyLine.txt"
       ],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
